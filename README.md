@@ -36,4 +36,4 @@ This system can be operated through a serial monitor or a Bluetooth terminal app
 
 OUTPUT:
 
-<img width="1201" height="663" alt="Image" src="https://github.com/user-attachments/assets/2d9e5ca3-bafc-46db-bd78-c0b859727e69" />
+<img width="1654" height="806" alt="Image" src="https://github.com/user-attachments/assets/2972e804-14a5-4499-aacb-0c9f198c8e97" />
